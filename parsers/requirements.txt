@@ -1,4 +1,4 @@
 cssselect==1.0.1
 grab==0.6.32
-lxml==3.7.2
+lxml==4.9.1
 pycurl==7.43.0
